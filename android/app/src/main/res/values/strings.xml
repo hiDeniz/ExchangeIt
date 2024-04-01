@@ -1,0 +1,6 @@
+<resources>
+    <string name="facebook_app_id">425871009035686</string>
+    <string name="app_name">Exchangeit</string>
+    <string name="fb_login_protocol_scheme">fb425871009035686</string>
+    <string name="facebook_client_token">20b5fe845b52fe967562eaebee4e32b1</string>
+</resources>
